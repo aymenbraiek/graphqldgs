@@ -1,4 +1,4 @@
-package com.graphql.graphql;
+package com.graphql.graphql.component.Fake;
 
 import com.netflix.graphql.dgs.DgsQueryExecutor;
 import graphql.Assert;
