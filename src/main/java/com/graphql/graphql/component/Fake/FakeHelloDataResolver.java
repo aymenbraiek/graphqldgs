@@ -1,4 +1,4 @@
-package com.graphql.graphql.component.fake;
+package com.graphql.graphql.component.Fake;
 
 import DataSource.fake.FakeHelloDataSource;
 import com.netflix.dgs.codegen.generated.types.Hello;
